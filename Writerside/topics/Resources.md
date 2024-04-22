@@ -19,7 +19,7 @@ Both high-resolution PNG files are generated from the vectorized raw images.
         <tr><td>Resolution</td><td>1880 &times; 1800</td></tr>
         <tr><td>Format</td><td>PNG</td></tr>
         <tr><td>Size</td><td>122.98 KB</td></tr>
-        <tr><td>Other formats</td><td><a href="http://www.google.com">SVG format</a>, <a href="%git-logo-repo%/a4457ac1-c86e-480d-8ee5-96a618b0f0c0.png">PDF format</a></td></tr>
+        <tr><td>Other formats</td><td><a href="%git-logo-repo%/DSS_logo_1.svg">SVG format</a>, <a href="%git-logo-repo%/DSS_logo_1.pdf">PDF format</a></td></tr>
         </table>
         <img border-effect="rounded" src="DSS_logo_1.png" alt="dss logo 1" />
     </def>
@@ -28,7 +28,7 @@ Both high-resolution PNG files are generated from the vectorized raw images.
         <tr><td>Resolution</td><td>1692 &times; 1132</td></tr>
         <tr><td>Format</td><td>PNG</td></tr>
         <tr><td>Size</td><td>141.81 KB</td></tr>
-        <tr><td>Other formats</td><td><a href="http://www.google.com">SVG format</a>, <a href="%git-logo-repo%/a4457ac1-c86e-480d-8ee5-96a618b0f0c0.png">PDF format</a></td></tr>
+        <tr><td>Other formats</td><td><a href="%git-logo-repo%/DSS_logo_2.svg">SVG format</a>, <a href="%git-logo-repo%/DSS_logo_2.pdf">PDF format</a></td></tr>
         </table>
         <img border-effect="rounded" src="DSS_logo_2.png" alt="dss logo 2" />
     </def>

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 
-<!--
-TODO:
-1. Replace git-logo-repo with true git repo later
--->
-
 <vars>
     <var name="product" value="DarkSHINE Software"/>
-    <var name="git-logo-repo" value="https://support.content.office.net/en-us/media"/>
+    <var name="git-logo-repo" value="https://github.com/AvencastF/dss_doc/tree/master/Writerside/images/logo"/>
 </vars>
