@@ -9,7 +9,9 @@
 >
 
     <toc-element topic="DarkSHINE-Software-Overview.topic">
+        <toc-element topic="Simulation-Framework.md"/>
         <toc-element topic="Installation.md"/>
+        <toc-element topic="Workflow.md"/>
         <toc-element topic="Simulation.md"/>
         <toc-element topic="Reconstruction.md"/>
         <toc-element topic="Event-Data-Structure.md"/>
@@ -21,6 +23,5 @@
         <toc-element topic="Experiment-Design.md"/>
         <toc-element topic="Resources.md"/>
     </toc-element>
-    <toc-element topic="Simulation-Framework.md"/>
     <toc-element topic="Examples.md"/>
 </instance-profile>

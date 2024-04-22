@@ -1,4 +1,4 @@
-# DarkSHINE Software Overview back
+# DarkSHINE Software Overview
 
 <format style="bold" color="DarkViolet">D</format>ark<format style="bold" color="DarkViolet">S</format>HINE <format style="bold" color="DarkViolet">S</format>oftware (<format style="bold" color="DarkViolet">DSS</format>) is a software package designed for the DarkSHINE experiment. 
 It encompasses a comprehensive set of tools for simulation, analysis, and data visualization. 

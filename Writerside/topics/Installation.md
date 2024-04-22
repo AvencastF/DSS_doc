@@ -89,4 +89,3 @@ Now you’re ready to explore the software and start using it.
 
 For example scripts, check the "scripts" folder in the corresponding source directories. 
 This folder contains various examples to help you get started with DSS.
-

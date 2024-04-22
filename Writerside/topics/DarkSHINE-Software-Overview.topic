@@ -26,8 +26,8 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="" type="development" summary="Core Simulation Program">DSimu</a>
-            <a href="" type="data" summary="Reconstruction and Data Analysis Framework">DAna</a>
+            <a href="Simulation.md" type="development" summary="Core Simulation Program">DSimu</a>
+            <a href="Reconstruction.md" type="data" summary="Reconstruction and Data Analysis Framework">DAna</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
@@ -35,7 +35,7 @@
             <title>Get started</title>
             <a href="Overview-DarkSHINE.md"/>
             <a href="Installation.md" summary="Starter's Guide">Installation Guide</a>
-            <a href="" summary="TBD">Empty</a>
+            <a href="Workflow.md" summary="The workflow of DSS"/>
             <a href="Examples.md" summary="A full chain example from simulation to final analysis using DSS"/>
         </primary>
 
