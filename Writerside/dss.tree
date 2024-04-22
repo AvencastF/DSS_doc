@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile
+        id="dss"
+        name="DarkSHINE Software"
+        start-page="Overview-DarkSHINE.md"
+>
+
+    <toc-element topic="Overview-DarkSHINE.md">
+        <toc-element topic="Standard-Model-and-Dark-Photon.md"/>
+        <toc-element topic="SHINE-Facility.md"/>
+        <toc-element topic="Experiment-Design.md"/>
+        <toc-element topic="Resources.md"/>
+    </toc-element>
+</instance-profile>
