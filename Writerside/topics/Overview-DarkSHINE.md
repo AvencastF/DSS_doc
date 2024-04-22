@@ -24,6 +24,6 @@ This interaction serves as a crucial portal between dark matter and ordinary mat
 - The study involves extensive signal and background simulations, with the aim of enhancing signal versus background separation.
 
 ## Sensitivity and Prospects
-With <i><code-block lang="tex"> 3 \times 10^{14}</code-block></i> electron-on-target events,
+With 3 &#215; 10<sup>14</sup> electron-on-target events,
 this experiment aims to rule out most of the sensitive regions predicted by popular dark photon models. 
 The study also explores the kinetic mixing parameter and the sensitivity for various dark photon mass ranges.
