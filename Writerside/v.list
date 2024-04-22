@@ -4,4 +4,5 @@
 <vars>
     <var name="product" value="DarkSHINE Software"/>
     <var name="git-logo-repo" value="https://github.com/AvencastF/dss_doc/tree/master/Writerside/images/logo"/>
+    <var name="version" value="1.6"/>
 </vars>

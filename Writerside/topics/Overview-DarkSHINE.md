@@ -1,5 +1,8 @@
 # Discover DarkSHINE
 
+<card-summary>Explore the DarkSHINE experiment starting from theoretical view, 
+SHINE facility, experiment setup, and current results.</card-summary>
+
 ## Introduction
 The DarkSHINE experiment is a newly proposed **fixed-target experiment** at the _Shanghai High Repetition-Rate XFEL and Extreme Light Facility_
 (**SHINE**).

@@ -5,13 +5,22 @@
 <instance-profile
         id="dss"
         name="DarkSHINE Software"
-        start-page="Overview-DarkSHINE.md"
+        start-page="DarkSHINE-Software-Overview.topic"
 >
 
+    <toc-element topic="DarkSHINE-Software-Overview.topic">
+        <toc-element topic="Installation.md"/>
+        <toc-element topic="Simulation.md"/>
+        <toc-element topic="Reconstruction.md"/>
+        <toc-element topic="Event-Data-Structure.md"/>
+        <toc-element topic="Visualization.md"/>
+    </toc-element>
     <toc-element topic="Overview-DarkSHINE.md">
         <toc-element topic="Standard-Model-and-Dark-Photon.md"/>
         <toc-element topic="SHINE-Facility.md"/>
         <toc-element topic="Experiment-Design.md"/>
         <toc-element topic="Resources.md"/>
     </toc-element>
+    <toc-element topic="Simulation-Framework.md"/>
+    <toc-element topic="Examples.md"/>
 </instance-profile>
